@@ -1,7 +1,7 @@
 # Hands-On-Feature-Engineering-with-Python
 Strengthen your machine learning with advanced feature engineering techniques
 
-This is the code repository for [Hands-On Feature Engineering with Python [Video]](https://prod.packtpub.com/, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Hands-On Feature Engineering with Python [Video]](https://prod.packtpub.com/), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Feature engineering is the most important aspect of machine learning. You know that every day you put off learning the process, you are hurting your model’s performance. Studies repeatedly prove that feature engineering can be much more powerful than the choice of algorithms. Yet the field of feature engineering can seem overwhelming and confusing.
 This course offers you the single best solution. In this course, all of the recommendations have been extensively tested and proven on real-world problems. You’ll find everything included: the recommendations, the code, the data sources, and the rationale. You’ll get an over-the-shoulder, step-by-step approach for every situation, and each segment can stand alone, allowing you to jump immediately to the topics most important to you.
