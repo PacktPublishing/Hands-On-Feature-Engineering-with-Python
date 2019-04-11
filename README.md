@@ -8,11 +8,12 @@ This course offers you the single best solution. In this course, all of the reco
 By the end of the course, you’ll have a clear, concise path to feature engineering and will enable you to get improved results by applying feature engineering techniques on your own datasets
 
 ## Table of Contents:<br/>
-SECTION 1 – INTRODUCTION TO FEATURE ENGINEERING<br/>
-SECTION2 - IMPLEMENTING FEATURE EXTRACTION<br/>
-SECTION 3 - IMPLEMENTING FEATURE TRANSFORMATION<br/>
-SECTION 4 - IMPLEMENTING FEATURE SELECTION<br/>
-SECTION 5 - PUTTING ALL TOGETHER - BUILDING THE APPLICATION<br/>
+Section 1 - Introduction to Feature Engineering<br/><br/>
+Section 2 - Implementing Feature Extraction<br/>
+Section 3 - Implementing Feature Transformation<br/>
+Section 4 - Implementing Feature Selection<br/>
+Section 5 - Putting All Together - Building the Application<br/>
+
 
 
 <H2>What You Will Learn</H2>
